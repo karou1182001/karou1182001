@@ -66,13 +66,13 @@ class WhoAmI:
     origin = "Colombia"
 
     degrees = ["Computer Science", "Mathematics", "Software Engineering"]
-    current = "M.S. in Computer Science (AI focus) @ USF"
+    current = "M.S. in CS (AI focus) @ USF"
     honors = "Summa Cum Laude" * 2
 
-    award = "Best Engineering Graduate – Lino de Pombo Award (2023)"
+    award = "Best Engineering Graduate in Colombia– Lino de Pombo Award (2023)"
     
     hobbies = [
-        "Dancing Latin music like nobody is watching",
+        "Dancing latin music like nobody is watching",
         "Building things that help people",
         "Public Speaking",
         "Tech + Purpose + a touch of Fashion "
