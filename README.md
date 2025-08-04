@@ -13,23 +13,18 @@
 </p>
 
 ---
-
-* I'm a **Master's student in Computer Science (Focus on AI)** at USF.
-* Awarded **Colombia’s Best Engineering Graduate** in 2023.
-* I hold **three degrees**, including dual **Summa Cum Laude** honors in Math and Software Engineering.
-
-
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
  
- ## ✨ About Me
+ ## About Me
  ```python
 class WhoAmI:
     user = "Maria Zapata"
     origin = "Colombia"
     degrees = ["Computer Science", "Mathematics", "Software Engineering"]
     current = "M.S. in Computer Science (AI focus) @ USF"
+    honors = "Summa Cum Laude" * 2 
     award = "Best Engineering Graduate – Lino de Pombo Award (2023)"
     
     hobbies = [
@@ -56,6 +51,10 @@ print(WhoAmI.intro())
 * Mentoring in **STEM** and doing **public speaking** to inspire others in tech.
 
 
+## Networking
+- Currently looking for a **full-time Software Engineering & AI role starting May 2026**
+- Open to collaborating on **AI, AR, or full-stack projects**
+- Let’s connect — links below!
 
 
 ## Contact Me
