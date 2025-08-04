@@ -18,32 +18,36 @@
 * Awarded **Colombia’s Best Engineering Graduate** in 2023.
 * I hold **three degrees**, including dual **Summa Cum Laude** honors in Math and Software Engineering.
 
-Passionate about building tech with purpose!
-
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
  
- ## Who am I?
+ ## ✨ About Me
  ```python
 class WhoAmI:
-    user = 'Maria Zapata'
-    current_edu = 'M.S. in Computer Science, Focus on AI'
+    user = "Maria Zapata"
+    origin = "Colombia"
+    degrees = ["Computer Science", "Mathematics", "Software Engineering"]
+    current = "M.S. in Computer Science (AI focus) @ USF"
+    award = "Best Engineering Graduate – Lino de Pombo Award (2023)"
     
     hobbies = [
-        'Dancing Latin music like nobody is watching',
-        'Building things that help people',
-        'Public Speaking',
-        'Debugging life with coffee'
+        "Dancing Latin music like nobody is watching",
+        "Building things that help people",
+        "Public Speaking",
+        "Debugging life with coffee",
+        "Tech + Purpose + a touch of Fashion "
     ]
     
-    def getOrigin():
-        return 'Colombia'
-    
-    def areasOfExpertise():
-        return ['AI', 'AR', 'Backend', 'Frontend', 'Web Dev', 'Mob Dev']
-        # Always ready for new challenges
+    areas_of_expertise = ["AI", "AR", "Backend", "Frontend", "Web Dev", "Mobile Dev"]
+
+    def intro():
+        if "learning" in ["always", "now", "forever"]:
+            return f"{WhoAmI.user} — blending {', '.join(WhoAmI.areas_of_expertise)} with impact. From {WhoAmI.origin}. {WhoAmI.award}"
+
+print(WhoAmI.intro())
+
  ```
  
 ## Current Works
