@@ -64,16 +64,17 @@
 class WhoAmI:
     user = "Maria Zapata"
     origin = "Colombia"
+
     degrees = ["Computer Science", "Mathematics", "Software Engineering"]
     current = "M.S. in Computer Science (AI focus) @ USF"
-    honors = "Summa Cum Laude" * 2 
+    honors = "Summa Cum Laude" * 2
+
     award = "Best Engineering Graduate – Lino de Pombo Award (2023)"
     
     hobbies = [
         "Dancing Latin music like nobody is watching",
         "Building things that help people",
         "Public Speaking",
-        "Debugging life with coffee",
         "Tech + Purpose + a touch of Fashion "
     ]
     
@@ -101,7 +102,7 @@ print(WhoAmI.intro())
 
 ## Contact Me
 
-- :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
+- :octocat: [My Resume](https://drive.google.com/file/d/1qv52-4alrlE5rWVqfK2pEp_HV2PLEcCg/view?usp=sharing)
 <br>
 <div align='left'>
 
