@@ -14,9 +14,51 @@
 
 ---
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
- 
+
+<p align="left">
+  <!-- Languages -->
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg' width='30'/>
+
+  <!-- AI & Data -->
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg' width='30'/>
+
+  <!-- Web -->
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg' width='30'/>
+
+  <!-- Mobile & UI -->
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg' width='30'/>
+
+  <!-- AR / Game Dev / IoT -->
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg' width='30'/>
+
+  <!-- Tools -->
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' width='30'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' width='30'/>
+  <img src='https://img.shields.io/badge/Postman-F46C30?style=flat-square&logo=postman&logoColor=white' height='25'/>
+  <img src='https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white' height='25'/>
+  <img src='https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white' height='25'/>
+  <img src='https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white' height='25'/>
+</p>
+
  ## About Me
  ```python
 class WhoAmI:
